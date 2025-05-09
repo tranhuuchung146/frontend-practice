@@ -9,11 +9,13 @@ https://tranhuuchung146.github.io/frontend-practice/
 
 Responsive trên màn hình:
 
-1027px
-768 px
-375 px
+- 1027px
+- 768 px
+- 375 px
+
 Được viết bằng :
 
-Html
-Css
-Javascript
+
+- Html
+- Css
+- Javascript
