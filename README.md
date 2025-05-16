@@ -1,4 +1,4 @@
-Đề bài yêu cầu cắt lại giao diện blog của trang Review nhà với figma Thực hiện bởi: Phạm Huy Hưng
+Đề bài yêu cầu cắt lại giao diện blog của trang Review nhà với figma Thực hiện bởi: Trần Hữu Chung
 
 Link đề bài: https://www.figma.com/file/OqoskP3WsOjZYsIaXsqdm0/ReviewNha
 
